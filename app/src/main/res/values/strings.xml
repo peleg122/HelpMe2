@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HelpMe2</string>
+    <string name="app_logo_headline">karma</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Signup</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="user_name">Name</string>
+    <string name="your_email">Your Email</string>
+    <string name="your_password">Your Password</string>
+    <string name="retype_your_password">Re-Type your Password</string>
+    <string name="register_free_here">Click Here and Register for Free!</string>
+    <string name="or">OR</string>
+
+</resources>
